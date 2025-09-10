@@ -14,7 +14,7 @@ Here’s a quick overview of the projects you’ll find in this repository:
    - Feature scaling & normalization  
 
 2. **Supervised Learning**  
-   - Linear Regression (House Price Prediction)  
+   - Linear Regression (House Price Prediction)  [Link -> https://38becac085b9.ngrok-free.app/ ]
    - Logistic Regression (Titanic Survival Prediction)  
    - Decision Trees & Random Forests  
    - Support Vector Machines  
