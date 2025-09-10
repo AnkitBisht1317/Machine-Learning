@@ -14,7 +14,7 @@ Here’s a quick overview of the projects you’ll find in this repository:
    - Feature scaling & normalization  
 
 2. **Supervised Learning**  
-   - Linear Regression (House Price Prediction)  [Link -> https://38becac085b9.ngrok-free.app/ ]
+   - Linear Regression (House Price Prediction)  [Link -> Your Streamlit App is live at: NgrokTunnel: "https://8b7f9d0210ab.ngrok-free.app" -> "http://localhost:8501"]
    - Logistic Regression (Titanic Survival Prediction)  
    - Decision Trees & Random Forests  
    - Support Vector Machines  
