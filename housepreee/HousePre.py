@@ -126,14 +126,8 @@ with open('columns.json', 'w') as f:
 
 from google.colab import files
 uploaded = files.upload()
-!ngrok config add-authtoken 32Uz0dmvmSaX8m5yPqhclMrh9wb_4XZ6kT3BhAQz5Wma1K9Sk
 
-!nohup streamlit run app.py --server.port 8501 --server.headless true > log.txt 2>&1 &
-from pyngrok import ngrok
 
-ngrok.kill()   # purane tunnels hatao
-public_url = ngrok.connect(8501)
-print("✅ Your Streamlit App is live at:", public_url)
 
 
 
